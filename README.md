@@ -60,12 +60,12 @@
   
   <br><br>
 
-  ![Aleksandr's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AleksandrKalimulin&theme=radical)
+<!--   ![Aleksandr's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AleksandrKalimulin&theme=radical) -->
 
   <br><br>
 
-  ![Aleksandr's github
-  stats](https://github-readme-stats.vercel.app/api?username=AleksandrKalimulin&show_icons=true&theme=radical&include_all_commits=true)
+<!--   ![Aleksandr's github
+  stats](https://github-readme-stats.vercel.app/api?username=AleksandrKalimulin&show_icons=true&theme=radical&include_all_commits=true) -->
 
   <br><br>
 
