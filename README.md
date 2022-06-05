@@ -44,7 +44,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandrKalimulin&show_icons=true&theme=radical&count_private=true)](https://github.com/AleksandrKalimulin)
 <br/>
+<br> <br>
+
+<div align="center">
 
   ![](https://visitor-badge.glitch.me/badge?page_id=AleksandrKalimulin)
+  
+  </div>
 
 </div>
