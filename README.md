@@ -36,7 +36,7 @@
 <p >
   <a target="_blank" href="mailto:can4ez084@gmail.com"><img
     src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://t.me/Can4ez_70"><img
+  <a target="_blank" href="https://t.me/Tomck_70"><img
     src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
