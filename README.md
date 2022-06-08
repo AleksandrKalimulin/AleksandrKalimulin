@@ -32,7 +32,7 @@
 <img max-width="800" src="https://raw.githubusercontent.com/innng/innng/master/assets/banner.png"/>
 </div>
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
+## Links
   <a target="_blank" href="mailto:can4ez084@gmail.com"><img
     src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://t.me/Tomck_70"><img
