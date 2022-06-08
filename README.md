@@ -42,7 +42,7 @@
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandrKalimulin&show_icons=true&theme=radical&count_private=true)](https://github.com/AleksandrKalimulin)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandrKalimulin&aura_icons=true&theme=radical&count_private=true)](https://github.com/AleksandrKalimulin)
 <br/>
 <br> <br>
 
