@@ -1,9 +1,6 @@
 <h2 ><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></h2>
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
-  <br />
-
 <h2 >My stack 👇</h2>
 
 <br>
