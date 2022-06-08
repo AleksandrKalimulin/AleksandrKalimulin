@@ -1,11 +1,11 @@
-<h2 >Hi there!👋</h2>
+<h2 ><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></h2>
 <p >
   <samp>I`m Aleksandr Kalimulin - JS developer.
   </samp>
   <br> <br>
 </p>
 
-<h2 >My stack</h2>
+<h2 >My stack 👇</h2>
 
 <br>
 
@@ -29,11 +29,11 @@
   ![Postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman)
   <br><br>
   
-<h2>Connection with me</h2>
+<div align="center">
+<img max-width="800" src="https://raw.githubusercontent.com/innng/innng/master/assets/banner.png"/>
+</div>
 
-<br/>
-
-<p >
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
   <a target="_blank" href="mailto:can4ez084@gmail.com"><img
     src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://t.me/Tomck_70"><img
