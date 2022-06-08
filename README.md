@@ -1,6 +1,6 @@
 <h2 ><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></h2>
 <div align="center">
-  <br />
+ 
 <h2 >My stack 👇</h2>
 
 <br>
