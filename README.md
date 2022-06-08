@@ -1,7 +1,11 @@
-<h2 ><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></h2>
-<div align="center">
- 
-<h2 >My stack 👇</h2>
+<h2 >Всем привет!👋</h2>
+<p >
+  <samp> Меня зовут Александр. Я - JS frontend разработчик.
+  </samp>
+  <br> <br>
+</p>
+
+<h2 >Мой стэк:</h2>
 
 <br>
 
@@ -25,10 +29,11 @@
   ![Postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman)
   <br><br>
   
-<div align="center">
-</div>
+<h2>Связаться со мной:</h2>
 
-## Links
+<br/>
+
+<p  >
   <a target="_blank" href="mailto:can4ez084@gmail.com"><img
     src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://t.me/Tomck_70"><img
